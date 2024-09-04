@@ -4,6 +4,7 @@ In this section i will deploy my 100 python day challenge projects!
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
+Some project has some issues with the original files, like missing main files (i am currently working on it)
 ###
 
 <div align="left">
